@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-lxml = "==3.4.4"
+lxml = "==4.9.1"
 requests = "==2.20.0"
 
 [requires]
